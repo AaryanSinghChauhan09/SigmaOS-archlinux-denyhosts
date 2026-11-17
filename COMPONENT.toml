@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-denyhosts"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-denyhosts component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
